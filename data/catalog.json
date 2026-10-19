@@ -1,0 +1,207 @@
+{
+  "_meta": {
+    "name": "FindPulse catalog",
+    "version": 1,
+    "note": "SAMPLE DATA for development and testing. These are fictional placeholder entries on clearly-sampled handles (findpulse_sample_*). Replace with a verified, curated directory before production use.",
+    "recordFields": [
+      "id",
+      "type",
+      "title",
+      "username",
+      "description",
+      "category",
+      "language",
+      "country (optional)",
+      "publicUrl",
+      "verified (optional)",
+      "enabled"
+    ]
+  },
+  "entries": [
+    {
+      "id": "tech-pulse-daily",
+      "type": "channel",
+      "title": "TechPulse Daily",
+      "username": "@findpulse_sample_tech",
+      "description": "Daily curated technology news, gadget reviews and software releases, hand-picked by editors.",
+      "category": "Technology",
+      "language": "en",
+      "country": "US",
+      "publicUrl": "https://t.me/findpulse_sample_tech",
+      "verified": true,
+      "enabled": true
+    },
+    {
+      "id": "dev-circle-group",
+      "type": "group",
+      "title": "Dev Circle",
+      "username": "@findpulse_sample_devcircle",
+      "description": "A friendly community of developers discussing languages, tooling, careers and code review.",
+      "category": "Programming",
+      "language": "en",
+      "publicUrl": "https://t.me/findpulse_sample_devcircle",
+      "enabled": true
+    },
+    {
+      "id": "taqtia-al-yawm",
+      "type": "channel",
+      "title": "تقنية اليوم",
+      "username": "@findpulse_sample_taqtia",
+      "description": "قناة تنشر أحدث الأخبار التقنية ومراجعات الأجهزة الذكية والدروس العملية باللغة العربية.",
+      "category": "Technology",
+      "language": "ar",
+      "publicUrl": "https://t.me/findpulse_sample_taqtia",
+      "verified": true,
+      "enabled": true
+    },
+    {
+      "id": "world-news-brief",
+      "type": "channel",
+      "title": "World News Brief",
+      "username": "@findpulse_sample_worldnews",
+      "description": "Concise verified headlines from around the world, published every morning and evening.",
+      "category": "News",
+      "language": "en",
+      "country": "GB",
+      "publicUrl": "https://t.me/findpulse_sample_worldnews",
+      "enabled": true
+    },
+    {
+      "id": "arabic-learners-lounge",
+      "type": "group",
+      "title": "Arabic Learners Lounge",
+      "username": "@findpulse_sample_arabiclearn",
+      "description": "Practice Arabic with native speakers, ask grammar questions and share learning resources.",
+      "category": "Education",
+      "language": "en",
+      "publicUrl": "https://t.me/findpulse_sample_arabiclearn",
+      "enabled": true
+    },
+    {
+      "id": "data-science-weekly",
+      "type": "channel",
+      "title": "Data Science Weekly",
+      "username": "@findpulse_sample_datasci",
+      "description": "Weekly digest of data science papers, datasets, tutorials and industry case studies.",
+      "category": "Science",
+      "language": "en",
+      "publicUrl": "https://t.me/findpulse_sample_datasci",
+      "enabled": true
+    },
+    {
+      "id": "mujamaat-al-musamimeen",
+      "type": "group",
+      "title": "مجموعة المصممين",
+      "username": "@findpulse_sample_designers",
+      "description": "مجتمع للمصممين العرب لتبادل الأفكار وتلقي النقد البنّاء وعرض أحدث الأعمال الإبداعية.",
+      "category": "Design",
+      "language": "ar",
+      "publicUrl": "https://t.me/findpulse_sample_designers",
+      "enabled": true
+    },
+    {
+      "id": "startup-signals",
+      "type": "channel",
+      "title": "Startup Signals",
+      "username": "@findpulse_sample_startups",
+      "description": "Funding rounds, product launches and founder lessons from the startup ecosystem.",
+      "category": "Business",
+      "language": "en",
+      "country": "US",
+      "publicUrl": "https://t.me/findpulse_sample_startups",
+      "verified": true,
+      "enabled": true
+    },
+    {
+      "id": "health-wellness-tips",
+      "type": "channel",
+      "title": "Health & Wellness Tips",
+      "username": "@findpulse_sample_health",
+      "description": "Evidence-based health, nutrition and fitness guidance explained in plain language.",
+      "category": "Health",
+      "language": "en",
+      "publicUrl": "https://t.me/findpulse_sample_health",
+      "enabled": true
+    },
+    {
+      "id": "football-fans-hub",
+      "type": "group",
+      "title": "Football Fans Hub",
+      "username": "@findpulse_sample_football",
+      "description": "Live match chat, transfer rumours and tactical analysis for football supporters worldwide.",
+      "category": "Sports",
+      "language": "en",
+      "country": "ES",
+      "publicUrl": "https://t.me/findpulse_sample_football",
+      "enabled": true
+    },
+    {
+      "id": "cinema-picks",
+      "type": "channel",
+      "title": "Cinema Picks",
+      "username": "@findpulse_sample_cinema",
+      "description": "Curated film recommendations, festival coverage and short reviews three times a week.",
+      "category": "Entertainment",
+      "language": "en",
+      "publicUrl": "https://t.me/findpulse_sample_cinema",
+      "enabled": true
+    },
+    {
+      "id": "idhaaat-taaleemiya",
+      "type": "channel",
+      "title": "إضاءات تعليمية",
+      "username": "@findpulse_sample_edu_ar",
+      "description": "مصادر تعليمية مجانية ودروس ممنهجة في مختلف المجالات لكل المتعلمين العرب.",
+      "category": "Education",
+      "language": "ar",
+      "country": "EG",
+      "publicUrl": "https://t.me/findpulse_sample_edu_ar",
+      "verified": true,
+      "enabled": true
+    },
+    {
+      "id": "open-source-mentors",
+      "type": "group",
+      "title": "Open Source Mentors",
+      "username": "@findpulse_sample_osmentors",
+      "description": "Mentors and mentors-to-be matching for first-time open source contributors.",
+      "category": "Programming",
+      "language": "en",
+      "publicUrl": "https://t.me/findpulse_sample_osmentors",
+      "enabled": true
+    },
+    {
+      "id": "design-inspiration",
+      "type": "channel",
+      "title": "Design Inspiration",
+      "username": "@findpulse_sample_design",
+      "description": "A daily stream of interface, typography and brand design inspiration from the community.",
+      "category": "Design",
+      "language": "en",
+      "publicUrl": "https://t.me/findpulse_sample_design",
+      "enabled": true
+    },
+    {
+      "id": "akthbaar-riyada-disabled",
+      "type": "channel",
+      "title": "أخبار الرياضة",
+      "username": "@findpulse_sample_sport_ar",
+      "description": "قناة أخبار رياضية. هذا سجل نموذجي معطّل (enabled = false) يُستخدم لاختبار فلترة السجلات المعطّلة.",
+      "category": "Sports",
+      "language": "ar",
+      "publicUrl": "https://t.me/findpulse_sample_sport_ar",
+      "enabled": false
+    },
+    {
+      "id": "crypto-talk",
+      "type": "group",
+      "title": "Crypto Talk",
+      "username": "@findpulse_sample_crypto",
+      "description": "General discussion about blockchain technology, markets and security best practices.",
+      "category": "Business",
+      "language": "en",
+      "publicUrl": "https://t.me/findpulse_sample_crypto",
+      "enabled": true
+    }
+  ]
+}
